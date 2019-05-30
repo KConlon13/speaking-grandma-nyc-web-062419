@@ -13,6 +13,11 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(message)
-  if (message.downcase) 
-    puts "HUH?! SPEAK UP, SONNY!"
+  if (message == "I LOVE YOU GRANDMA!") 
+    puts "I LOVE YOU TOO PUMPKIN!"
   elsif
+  
+  
+  
+  
+  

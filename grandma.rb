@@ -14,4 +14,5 @@
 
 def speak_to_grandma(message)
   if (message.downcase) 
-    puts 
+    puts "HUH?! SPEAK UP, SONNY!"
+    

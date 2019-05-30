@@ -17,10 +17,10 @@ def speak_to_grandma(message)
     puts "I LOVE YOU TOO PUMPKIN!"
   elsif (message = message.upcase)
     puts "NO, NOT SINCE 1938!"
-  elsif (message == "Hi Nana, how are you?")
-    puts "HUH?! SPEAK UP, SONNY!"
-  elsif (message == "Hi!")
-    puts "HUH?! SPEAK UP, SONNY!"
+  # elsif (message == "Hi Nana, how are you?")
+  #   puts "HUH?! SPEAK UP, SONNY!"
+  # elsif (message == "Hi!")
+  #   puts "HUH?! SPEAK UP, SONNY!"
   # elsif (message == "WHAT DID YOU EAT TODAY?")
   #   puts "NO, NOT SINCE 1938!"
   # elsif (message == "WHAT?")

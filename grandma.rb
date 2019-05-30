@@ -21,11 +21,13 @@ def speak_to_grandma(message)
   #   puts "HUH?! SPEAK UP, SONNY!"
   # elsif (message == "Hi!")
   #   puts "HUH?! SPEAK UP, SONNY!"
+  else 
+    puts "HUH?! SPEAK UP, SONNY!"
   # elsif (message == "WHAT DID YOU EAT TODAY?")
   #   puts "NO, NOT SINCE 1938!"
   # elsif (message == "WHAT?")
   #   puts ("NO, NOT SINCE 1938!")
-  end
+end
   
   
   
